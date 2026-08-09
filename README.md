@@ -16,7 +16,7 @@ This portfolio is where I document what I’ve built, what I’m learning, and t
 
 ViralScriptWriterAI
 
-An AI-powered SaaS that helps creators write short-form video scripts for TikTok, Instagram Reels, and YouTube Shorts faster and without the blank page anxiety.
+I am the Co-founder of ViralScriptWriterAI An AI-powered SaaS that helps creators write short-form video scripts for TikTok, Instagram Reels, and YouTube Shorts faster and without the blank page anxiety.
 
 Built with: AI • SaaS • Web Development • Prompt Engineering • UI/UX
 🛠️ What I Build
